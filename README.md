@@ -1,1 +1,1 @@
-# MacOS Scripts
+# Fun Projects
